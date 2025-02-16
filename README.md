@@ -49,17 +49,15 @@ This React application showcases a list of planets using **React Slick** for a s
 Check out the live demo of the Planets Slider App: [Live Demo](https://1planetsapp1.ccbp.tech)
 
 ## Project Preview
-<div style="text-align: center;">
-  <video style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop="true" autoplay="autoplay" controls="controls" muted>
-    <source src="https://assets.ccbp.in/frontend/content/react-js/planets-app-output.mp4" type="video/mp4">
-  </video>
-</div>
+![Planets Slider App Preview](![Screenshot 2025-02-16 181723](https://github.com/user-attachments/assets/4dcc637f-c6ef-4d18-ac34-e4dc73468920)
+)  
+*Preview of the Planets Slider App showcasing Mercury's details.*
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](SuryaNagulapalli) file for details.
 
 ---
 
