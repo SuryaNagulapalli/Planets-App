@@ -1,0 +1,42 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.planet-item {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.planet-name {
+  font-size: 26px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  margin-bottom: 20px;
+  color: white;
+}
+
+.planet-image {
+  height: 280px;
+  width: 400px;
+  margin-bottom: 20px;
+}
+
+@media screen and (max-width: 476px) {
+  .planet-image {
+    width: 200px;
+    height: 180px;
+  }
+}
+
+.planet-content {
+  font-size: 16px;
+  font-family: 'Roboto';
+  margin-bottom: 20px;
+  color: white;
+  text-align: center;
+}

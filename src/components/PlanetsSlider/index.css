@@ -1,0 +1,42 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.main-page-bg-container {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png');
+  background-size: cover;
+}
+
+.slider-container {
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.planet-heading {
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 32px;
+  margin-bottom: 30px;
+  color: #05acff;
+}
+
+.slider {
+  width: 80%;
+}
+
+.planet-heading {
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 32px;
+  color: #05acff;
+}
